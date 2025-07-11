@@ -1,0 +1,30 @@
+# Projet d'Analyse des Émotions avec PyCaret
+# Requirements.txt pour environnement virtuel
+
+# Core ML libraries
+pycaret[nlp]==3.0.4
+pandas>=1.5.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Visualization libraries
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+kaleido>=0.2.1
+
+# NLP specific libraries
+wordcloud>=1.9.2
+textblob>=0.17.1
+spacy>=3.6.0
+nltk>=3.8.1
+
+# Additional ML libraries
+xgboost>=1.7.0
+lightgbm>=4.0.0
+catboost>=1.2.0
+
+# Utility libraries
+tqdm>=4.65.0
+jupyter>=1.0.0
+ipywidgets>=8.0.0

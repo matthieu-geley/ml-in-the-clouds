@@ -29,7 +29,7 @@ Productivité : les data scientists peuvent se concentrer sur l’analyse métie
 
 Optimisation automatique : permet d’atteindre des performances compétitives.
 
-MLaaS – Définition et avantages
+### MLaaS – Définition et avantages
 
 Le Machine Learning as a Service (MLaaS) regroupe les services cloud proposant des outils et environnements pour exécuter des tâches de machine learning via des API, des interfaces web ou des SDK.
 
@@ -45,8 +45,8 @@ Déploiement rapide : les modèles sont mis en ligne en quelques clics ou comman
 
 Sécurité et maintenance assurées par les fournisseurs cloud.
 
-Focus sur les principales plateformes MLaaS
-1. Google Cloud Platform – Vertex AI
+## Focus sur les principales plateformes MLaaS
+### 1. Google Cloud Platform – Vertex AI
 Intègre AutoML, entraînement personnalisé et déploiement dans un seul environnement.
 
 Fonctionne avec BigQuery, Dataflow, TensorFlow, etc.
@@ -55,7 +55,7 @@ Permet la gestion du cycle de vie complet via Vertex Pipelines (MLOps).
 
 Interface web + API + Jupyter Notebooks.
 
-2. Amazon Web Services – SageMaker
+### 2. Amazon Web Services – SageMaker
 Offre complète allant de la préparation des données au déploiement.
 
 Inclut SageMaker Autopilot pour l’AutoML.
@@ -64,7 +64,7 @@ Outils collaboratifs (SageMaker Studio) et gestion des workflows (SageMaker Pipe
 
 Forte intégration avec tous les services AWS.
 
-3. Microsoft Azure – Azure Machine Learning
+### 3. Microsoft Azure – Azure Machine Learning
 Propose des expériences code et low-code.
 
 Support d’AutoML avec visualisation des modèles, pipelines visuels, ou Jupyter.
@@ -73,7 +73,7 @@ Intégration complète avec Azure Data Lake, Power BI.
 
 Fonctionnalités avancées de MLOps : suivi des expériences, gestion des modèles, CI/CD.
 
-4. DataRobot
+### 4. DataRobot
 Plateforme spécialisée 100% AutoML.
 
 Ciblée pour les entreprises et les utilisateurs métiers.
